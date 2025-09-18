@@ -8,7 +8,7 @@ An interactive **Shiny dashboard** built in R that visualizes FIDE chess statist
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/meetb02/chess-stats.git
+   git clone https://github.com/meetb02/chess_stats_FIDE.git
    cd chess-stats
 
 Open R or RStudio in the project folder.
